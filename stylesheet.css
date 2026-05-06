@@ -1,9 +1,9 @@
 /* Updated to match provided dark theme styles while maintaining layout structure */
 :root {
-    --text-color: #DADFE6;
-    --bg-color: #202124;
-    --link-color: #4797ff;
-    --border-color: #3c4043;
+    --text-color: #111111;
+    --bg-color: #ffffff;
+    --link-color: #007880;
+    --border-color: #cccccc;
 }
 
 body {
@@ -37,7 +37,6 @@ h1 {
 
 .site-description {
     font-size: 18px;
-    color: #9aa0a6;
     margin: 0;
 }
 
@@ -72,7 +71,6 @@ li {
 li::before {
     content: "—";
     margin-right: 10px;
-    color: #5f6368;
 }
 
 a:link, a:visited, a:active {
@@ -99,7 +97,6 @@ hr {
 footer {
     margin-top: 80px;
     font-size: 14px;
-    color: #80868b;
 }
 
 @media (max-width: 600px) {
