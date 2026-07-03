@@ -1,9 +1,9 @@
 /* Updated to match provided dark theme styles while maintaining layout structure */
 :root {
-    --text-color: #111111;
-    --bg-color: #ffffff;
+    --text-color: #dddddd;
+    --bg-color: #111111;
     --link-color: #007880;
-    --border-color: #cccccc;
+    --border-color: #333333;
 }
 
 body {
